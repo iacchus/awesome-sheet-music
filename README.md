@@ -20,6 +20,7 @@ A curated list of open source internet resources for musicians and also computer
 | Title | Description |
 | --- | --- |
 | [birdears](https://github.com/iacchus/birdears) | Functional ear taining for musicians |
+| GNU Solfege |  |
 
 ## Sofware
 
@@ -27,6 +28,10 @@ A curated list of open source internet resources for musicians and also computer
 | --- | --- |
 | [musescore](https://musescore.com/) | Sheet music editor and online community. |
 | lilypond | Professional sheet music engraving language. |
+| Tux Guitar | Tablature Editor for Linux. |
+| [Frescobaldi](http://frescobaldi.org/) | LilyPond sheet music text editor. |
+| [Denemo](http://www.denemo.org/) | Free and Open Source music Notation Editor. |
+| [LMMS](https://lmms.io/) | `Let's Make Music` with a Free, cross-platform tool for your computer. Software for and community of music creators.  |
 
 ## Tuners
 
@@ -49,12 +54,13 @@ A curated list of open source internet resources for musicians and also computer
 
 ### Communities
 
-### Cheatsheets
-
-
 | Title | Description |
 | --- | --- |
 | Computer-aided Musicology | This lists server on Discord |
+| [music on SE](https://music.stackexchange.com/) | `music` on StackExchange.  |
+
+### Cheatsheets
+
 
 ## Linux/Tricks
 
@@ -72,5 +78,5 @@ using `sox` to play notes
 
 | Title | Description |
 | --- | --- |
-| abjad | Library for composing music. |
-| music21 | Python lib for musical analysis and computer-aided musicology. |
+| [abjad](http://abjad.mbrsi.org/) | Library for composing music. |
+| [music21](http://web.mit.edu/music21/) | Python lib for musical analysis and computer-aided musicology. |
