@@ -8,21 +8,25 @@ A curated list of open source internet resources for musicians and also computer
 
 **[TOC]**
 
-## ABC Notation
+## ABC Music Notation
 
-ABC Musical Notation Standard
-
-ABC Notation HTML5 Editor
+| Title | Description |
+| --- | --- |
+| [ABC Music Notation Standard](https://iacchus.github.io/abc-music-notation-standard/) | This is my edition of the *ABC music notation standard* version 2.1 (Dec. 2011) |
+| [ABC Notation HTML5 Editor](https://iacchus.github.io/musiceditor/) | This is an online abc notattion edition with live preview. Uses *abcjs* |
 
 ## Ear Training
 
-birdears
+| Title | Description |
+| --- | --- |
+| [birdears](https://github.com/iacchus/birdears) | Functional ear taining for musicians |
 
 ## Sofware
 
-musescore
-
-lilypond
+| Title | Description |
+| --- | --- |
+| [musescore](https://musescore.com/) | Sheet music editor and online community. |
+| lilypond | Professional sheet music engraving language. |
 
 ## Tuners
 
