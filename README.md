@@ -61,10 +61,36 @@ A curated list of open source internet resources for musicians and also computer
 
 ### Cheatsheets
 
+## Sheet music collections / online libraries
+
+### Classical and Early music
+
+| Title | Description |
+| --- | --- |
+| imslp | Library with public domains classical works.  |
+
+### Folk music
+
+| Title | Description |
+| --- | --- |
+| thesession.org | Site with thousands of abc of the rich Irish musical tradition. |
+
+## Resources
+
+### Miscellaneous
+
+| Title | Description |
+| --- | --- |
+| [Iacchus' sheet music stuff](https://github.com/iacchus/sheet-music-stuff/) | Repository on GitHub with some resources collected by me. |
 
 ## Linux/Tricks
 
 using `sox` to play notes
+
+## Instrument-specific
+
+### Mandolin / Violin / Fiddle
+
 
 ## Libraries for Devs
 
