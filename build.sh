@@ -7,4 +7,8 @@ echo 'starting..'
 
 pandoc --from=markdown --to=html -s --css css/style.css --toc README.md -o docs/index.html
 
+git add .
+git commit -a -m 'okz..'
+git push
+
 echo 'end..'
