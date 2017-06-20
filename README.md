@@ -30,9 +30,16 @@ A curated list of open source internet resources for musicians and also computer
 
 ## Tuners
 
-lingot
+| Title | Description |
+| --- | --- |
+| lingot | Instrument tuner for pc. Uses microphone. |
 
 ## Metronomes
+
+
+| Title | Description |
+| --- | --- |
+| gtick | Metronome |
 
 ## Theory
 
@@ -44,14 +51,26 @@ lingot
 
 ### Cheatsheets
 
+
+| Title | Description |
+| --- | --- |
+| Computer-aided Musicology | This lists server on Discord |
+
 ## Linux/Tricks
 
 using `sox` to play notes
 
-## Libraries
+## Libraries for Devs
 
-abcjs
+### Javascript
 
-abjad
+| Title | Description |
+| --- | --- |
+| abcjs | Renders abc sheet music using javascript and svg. |
 
-music21
+### Python
+
+| Title | Description |
+| --- | --- |
+| abjad | Library for composing music. |
+| music21 | Python lib for musical analysis and computer-aided musicology. |
