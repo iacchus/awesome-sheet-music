@@ -57,7 +57,7 @@ td {
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bold;
   content: 'Table of Contents';
-  text-align: center;
+  //text-align: center;
   display: block;
   /border: 1px solid #ccc;
   margin-bottom: 17px;
@@ -66,8 +66,8 @@ td {
 #TOC {
   max-width: 340px;
   float: right;
-  border: 1px solid #ccc;
-  padding: 07px 11px 11px 11px;
+  //border: 1px solid #ccc;
+  //padding: 07px 11px 11px 11px;
   margin-left: 40px;
 }
 
@@ -78,12 +78,12 @@ td {
 }
 
 #TOC > ul { /* first child only */
-  margin: 0;
+  //margin: 0;
   padding-left: 0px;
 }
 
 #TOC li {
-  margin: 2px 0 2px 0;
+  margin: 3px 0 3px 0;
 }
 
 #TOC a {
