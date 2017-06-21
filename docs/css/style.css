@@ -103,7 +103,7 @@ td {
   list-style: none;
 }
 
-#TOC > ul { /* first child only */
+ { /* first child only */
   //margin: 0;
   padding-left: 0px;
 }
@@ -115,6 +115,21 @@ td {
 #TOC a {
   font-size: 12px;
   font-weight: 900;
+}
+
+#TOC > ul,
+#TOC > ul > li {
+  padding: 0;
+  margin: 0;
+}
+
+#TOC > ul > li > a
+{ /* hide h1 (title) */
+  display: none;
+}
+
+#TOC > ul > li > ul {
+  padding-left: 0;
 }
 
 h2, h3, h4, h5, h6, table {
