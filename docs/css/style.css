@@ -15,12 +15,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 0 auto;
-    display: block;
+    // margin: 0 auto;
+    //display: block;
 
     font-family: 'Open Sans Condensed', sans-serif;
-    max-width: 720px;
-    width: 100% !important;
+    // max-width: 720px;
+    // width: 100% !important;
 }
 
 table {
@@ -59,6 +59,10 @@ td {
   /width: 300px;
   float: right;
   border: 1px solid #ccc;
+
+}
+
+#TOC a {
 
 }
 
