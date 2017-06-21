@@ -60,10 +60,19 @@ td {
 }
 
 #TOC {
-  /width: 300px;
+  max-width: 340px;
   float: right;
   border: 1px solid #ccc;
 
+}
+
+#TOC ul{
+  margin: 0;
+  padding-left: 30px;
+}
+
+#TOC li {
+  margin: 2px 0 2px 0;
 }
 
 #TOC a {

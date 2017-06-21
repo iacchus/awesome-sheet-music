@@ -4,9 +4,7 @@
 ![Discord](https://img.shields.io/discord/322889507294806028.svg?style=flat-square&label=chat%20on%20discord)
 
 
-A curated list of open source internet resources for musicians and also computer-aided musicology.
-
-**[TOC]**
+A curated list of open source internet resources for musicians and computer-aided musicology.
 
 ## ABC Music Notation
 
