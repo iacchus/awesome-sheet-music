@@ -58,8 +58,9 @@ td {
 
 #TOC:before {
   //font-family: 'Inconsolata', monospace;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-weight: bold;
+  //font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Old Standard TT', sans-serif;
+  //font-weight: bold;
   content: 'Table of Contents';
   //text-align: center;
   display: block;
@@ -74,7 +75,7 @@ td {
   margin-left: 40px;
   border: 1px solid #ccc;
   background-color: #f3f3f3;
-  padding: 5px 11px 3px;
+  padding: 7px 11px 3px;
 }
 
 #TOC ul {
