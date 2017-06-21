@@ -48,9 +48,18 @@ td {
   //text-align: center; /* Center our text */
 }
 
+#TOC:before {
+  font-family: 'Inconsolata', monospace;
+  content: 'Contents';
+  display: block;
+  border: 1px solid #ccc;
+}
+
 #TOC {
   /width: 300px;
   float: right;
+  border: 1px solid #ccc;
+
 }
 
 h2, h3, h4, h5, h6, table {
