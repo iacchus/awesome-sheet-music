@@ -35,14 +35,13 @@ A curated list of open source internet resources for musicians and computer-aide
 
 | Title | Description |
 | --- | --- |
-| lingot | Instrument tuner for pc. Uses microphone. |
+| [lingot](https://savannah.nongnu.org/projects/lingot) | `Lingot Is Not a Guitar-Only Tuner` is an instrument tuner for pc. Uses microphone. |
 
 ## Metronomes
 
-
 | Title | Description |
 | --- | --- |
-| gtick | Metronome |
+| [gtick](https://directory.fsf.org/wiki/Gtick) | Metronome |
 
 ## Theory
 
@@ -65,13 +64,13 @@ A curated list of open source internet resources for musicians and computer-aide
 
 | Title | Description |
 | --- | --- |
-| imslp | Library with public domains classical works.  |
+| [imslp](https://imslp.org/) | Petrucci Music Library contains classical works under public domain in PDF. IMSLP stands for  International Music Score Library Project.  |
 
 ### Folk music
 
 | Title | Description |
 | --- | --- |
-| thesession.org | Site with thousands of abc of the rich Irish musical tradition. |
+| [thesession.org](https://thesession.org/) | Site with thousands of ABC tunes from the rich Irish musical tradition. |
 
 ## Resources
 
