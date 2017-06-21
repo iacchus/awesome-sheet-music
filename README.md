@@ -54,6 +54,12 @@ timidity
 
 ### Websites
 
+http://www.outsideshore.com/music/a-jazz-improvisation-primer/
+
+http://tobyrush.com/theorypages/index.html
+
+https://music.tutsplus.com/tutorials
+
 ### E-Books
 
 ### Communities
