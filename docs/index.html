@@ -128,6 +128,7 @@
 </tr>
 </tbody>
 </table>
+<p>sox abc tools timidity</p>
 <h2 id="tuners">Tuners</h2>
 <table style="width:11%;">
 <colgroup>
@@ -246,7 +247,12 @@
 </table>
 <h2 id="linuxtricks">Linux/Tricks</h2>
 <p>Here goes a spellbook for linux musicians.</p>
-<table>
+<table style="width:17%;">
+<colgroup>
+<col style="width: 5%" />
+<col style="width: 5%" />
+<col style="width: 5%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th>Description</th>
@@ -259,6 +265,16 @@
 <td>A4 tuning fork diapason</td>
 <td><code>play -n synth sin A4</code></td>
 <td><a href="http://sox.sourceforge.net/">sox</a></td>
+</tr>
+<tr class="even">
+<td>Recording mp3 <kbd>CTRL</kbd>+<kbd>C</kbd>) to stop</td>
+<td><code>sox -t alsa default -b 32 -r 192000 recording.mp3 silence 1 0.1 5% 1 1.0 5%</code></td>
+<td><a href="http://sox.sourceforge.net/">sox</a></td>
+</tr>
+<tr class="odd">
+<td>Playing MIDI file</td>
+<td><code>timidity filename.mid</code></td>
+<td>timidity</td>
 </tr>
 </tbody>
 </table>

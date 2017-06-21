@@ -31,6 +31,11 @@ A curated list of open source internet resources for musicians and computer-aide
 | [Denemo](http://www.denemo.org/) | Free and Open Source music Notation Editor. |
 | [LMMS](https://lmms.io/) | *Let's Make Music* with a Free, cross-platform tool for your computer. Software for and community of music creators.  |
 
+sox
+abc tools
+timidity
+
+
 ## Tuners
 
 | Title | Description |
@@ -87,6 +92,8 @@ Here goes a spellbook for linux musicians.
 | Description | Command | Depends on |
 | --- | --- | --- |
 | A4 tuning fork diapason |`play -n synth sin A4`| [sox](http://sox.sourceforge.net/) |
+| Recording mp3 <kbd>CTRL</kbd>+<kbd>C</kbd>) to stop | `sox -t alsa default -b 32 -r 192000 recording.mp3 silence 1 0.1 5% 1 1.0 5%` | [sox](http://sox.sourceforge.net/) |
+| Playing MIDI file | `timidity filename.mid` | timidity |
 
 
 ## Instrument-specific
