@@ -48,3 +48,16 @@ td {
   //text-align: center; /* Center our text */
 }
 
+#TOC {
+  /width: 300px;
+  float: right;
+}
+
+h2, h3, h4, h5, h6, table {
+  clear: both;
+}
+
+code, pre {
+  font-family: 'Inconsolata', monospace;
+  font-size: 14px;
+}
