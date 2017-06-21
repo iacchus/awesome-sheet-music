@@ -74,6 +74,7 @@ td {
 #TOC ul {
   //margin: 0;
   padding-left: 30px;
+  list-style: none;
 }
 
 #TOC > ul { /* first child only */
