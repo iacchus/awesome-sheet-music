@@ -82,11 +82,12 @@ A curated list of open source internet resources for musicians and computer-aide
 
 ## Linux/Tricks
 
+Here goes a spellbook for linux musicians.
+
 | Description | Command | Depends on |
 | --- | --- | --- |
 | A4 tuning fork diapason |`play -n synth sin A4`| [sox](http://sox.sourceforge.net/) |
 
-using `sox` to play notes
 
 ## Instrument-specific
 
