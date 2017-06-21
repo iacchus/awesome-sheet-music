@@ -5,7 +5,7 @@ set -e
 
 echo 'starting..'
 
-pandoc --from=markdown --to=html5 -s --css css/style.css --toc README.md -o docs/index.html
+pandoc --from=markdown --to=html5 -s -H docs/js/script.js --css css/style.css --toc README.md -o docs/index.html
 
 git add .
 git commit -a -m 'okz..'
