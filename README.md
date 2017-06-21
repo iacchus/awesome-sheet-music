@@ -17,16 +17,16 @@ A curated list of open source internet resources for musicians and computer-aide
 
 | Title | Description |
 | --- | --- |
-| [birdears](https://github.com/iacchus/birdears) | Functional ear taining for musicians |
-| GNU Solfege |  |
+| [birdears](https://github.com/iacchus/birdears) | Functional ear taining for musicians. |
+| [GNU Solfege](https://www.gnu.org/software/solfege/solfege.html) | Software for musical auditive training. |
 
 ## Sofware
 
 | Title | Description |
 | --- | --- |
 | [musescore](https://musescore.com/) | Sheet music editor and online community. |
-| lilypond | Professional sheet music engraving language. |
-| Tux Guitar | Tablature Editor for Linux. |
+| [lilypond](http://lilypond.org/) | Professional sheet music engraving. |
+| [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) | Tablature Editor for Linux. |
 | [Frescobaldi](http://frescobaldi.org/) | LilyPond sheet music text editor. |
 | [Denemo](http://www.denemo.org/) | Free and Open Source music Notation Editor. |
 | [LMMS](https://lmms.io/) | `Let's Make Music` with a Free, cross-platform tool for your computer. Software for and community of music creators.  |
