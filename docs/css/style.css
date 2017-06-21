@@ -18,6 +18,12 @@ body {
     font-size: 14px !important;    
 }
 
+em {
+    font-family: 'Old Standard TT', serif;
+    font-style: oblique;
+    color: #000;
+}
+
 h1, h2, h3, h4, h5, h6 {
     // margin: 0 auto;
     //display: block;
