@@ -53,13 +53,14 @@ td {
 }
 
 #TOC:before {
-  font-family: 'Inconsolata', monospace;
+  //font-family: 'Inconsolata', monospace;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bold;
   content: 'Table of Contents';
   text-align: center;
   display: block;
   /border: 1px solid #ccc;
-  margin-bottom: 7px;
+  margin-bottom: 17px;
 }
 
 #TOC {
@@ -67,7 +68,12 @@ td {
   float: right;
   border: 1px solid #ccc;
   padding: 07px 11px 11px 11px;
-  margin-left: 20px;
+  margin-left: 40px;
+}
+
+#TOC ul {
+  //margin: 0;
+  padding-left: 30px;
 }
 
 #TOC > ul { /* first child only */
