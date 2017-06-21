@@ -32,7 +32,9 @@ A curated list of open source internet resources for musicians and computer-aide
 | [LMMS](https://lmms.io/) | *Let's Make Music* with a Free, cross-platform tool for your computer. Software for and community of music creators.  |
 
 sox
+
 abc tools
+
 timidity
 
 
@@ -95,6 +97,9 @@ Here goes a spellbook for linux musicians.
 | Recording mp3 <kbd>CTRL</kbd>+<kbd>C</kbd>) to stop | `sox -t alsa default -b 32 -r 192000 recording.mp3 silence 1 0.1 5% 1 1.0 5%` | [sox](http://sox.sourceforge.net/) |
 | Playing MIDI file | `timidity filename.mid` | timidity |
 
+pdf book to image pages using imagemagick
+
+highening contrast in old music scores using imagemagick
 
 ## Instrument-specific
 
