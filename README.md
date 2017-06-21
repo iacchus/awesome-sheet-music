@@ -95,7 +95,7 @@ using `sox` to play notes
 
 | Title | Description |
 | --- | --- |
-| abcjs | Renders abc sheet music using javascript and svg. |
+| [abcjs](https://github.com/paulrosen/abcjs/) | Renders abc sheet music using javascript and svg. |
 
 ### Python
 
