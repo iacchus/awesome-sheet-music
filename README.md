@@ -54,7 +54,7 @@ A curated list of open source internet resources for musicians and computer-aide
 | Title | Description |
 | --- | --- |
 | Computer-aided Musicology | This lists server on Discord |
-| [music on StackExchange](https://music.stackexchange.com/) | *music* on StackExchange.  |
+| [*music* on StackExchange](https://music.stackexchange.com/) | *music* on StackExchange.  |
 
 ### Cheatsheets
 
