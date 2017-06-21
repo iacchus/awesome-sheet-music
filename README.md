@@ -78,7 +78,7 @@ A curated list of open source internet resources for musicians and computer-aide
 
 | Title | Description |
 | --- | --- |
-| [Iacchus' sheet music stuff](https://github.com/iacchus/sheet-music-stuff/) | Repository on GitHub with some resources collected by me. |
+| [*Iacchus*' sheet music stuff](https://github.com/iacchus/sheet-music-stuff/) | Repository on GitHub with some resources collected by me. |
 
 ## Linux/Tricks
 

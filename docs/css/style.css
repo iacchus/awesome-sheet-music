@@ -19,20 +19,21 @@ body {
 }
 
 
+/*
 em:before {
   content: '“';
 }
 
 em:after {
   content: '”';
-}
+}*/
 
 em {
     font-family: 'Old Standard TT', serif;
-    font-style: normal;
+    font-style: oblique;
     font-weight: normal;
     //color: #000;
-    font-size: 15.0px;
+    font-size: 16.35px;
     letter-spacing: -0.7px;
 }
 
@@ -61,7 +62,7 @@ table {
 td, th {
   border: 1px solid #CCC;
   height: 30px;
-  padding: 0 7px;
+  padding: 3px 7px;
 } /* Make cells a bit taller */
 
 th {
