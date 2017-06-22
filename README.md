@@ -66,7 +66,7 @@ https://music.tutsplus.com/tutorials
 
 | Title | Description |
 | --- | --- |
-| Computer-aided Musicology | This lists server on Discord |
+| [*Computer-aided Musicology* on Discord](https://discord.gg/HhaTwn9) | This lists server on Discord |
 | [*music* on StackExchange](https://music.stackexchange.com/) | *music* on StackExchange.  |
 
 ### Cheatsheets
