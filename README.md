@@ -72,7 +72,7 @@ A curated list of open source internet resources for musicians and computer-aide
 
 | Title | Description |
 | --- | --- |
-| [imslp](https://imslp.org/) | Petrucci Music Library contains classical works under public domain in PDF. IMSLP stands for  International Music Score Library Project.  |
+| [International Music Score Library Project](https://imslp.org/) | Petrucci Music Library contains classical works under public domain in PDF. IMSLP stands for International Music Score Library Project.  |
 
 ### Folk music
 
