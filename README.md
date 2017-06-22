@@ -78,7 +78,7 @@ A curated list of open source internet resources for musicians and computer-aide
 
 | Title | Description |
 | --- | --- |
-| [thesession.org](https://thesession.org/) | Site with thousands of ABC tunes from the rich Irish musical tradition. |
+| [The Session](https://thesession.org/) | Site with thousands of ABC tunes from the rich Irish musical tradition. |
 
 ## Resources
 
