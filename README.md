@@ -30,13 +30,8 @@ A curated list of open source internet resources for musicians and computer-aide
 | [Frescobaldi](http://frescobaldi.org/) | LilyPond sheet music text editor. |
 | [Denemo](http://www.denemo.org/) | Free and Open Source music Notation Editor. |
 | [LMMS](https://lmms.io/) | *Let's Make Music* with a Free, cross-platform tool for your computer. DAW software for and community of music creators.  |
-
-sox
-
-abc tools
-
-timidity
-
+| [sox *SOund eXchange*](http://sox.sourceforge.net/) | SoX, the Swiss Army knife of sound processing programs. |
+| [TiMidity++](http://timidity.sourceforge.net/) | TiMidity++ is a software synthesizer. It can play MIDI files by converting them into PCM waveform data. |
 
 ## Tuners
 
@@ -55,6 +50,7 @@ timidity
 ### Websites
 
 | Title | Description  |
+| --- | --- |
 | [A Jazz Improvisation Primer](http://www.outsideshore.com/music/a-jazz-improvisation-primer/) | by *Marc Sabatella*. About Jazz Improvisation |
 | [Music Theory for Musicians and Normal People](http://tobyrush.com/theorypages/index.html) | by *Toby W. Rush*; Musical theory pages. |
 | [Music and Audio Tutorials at *Tuts+* ](https://music.tutsplus.com/tutorials) | Some very good music theory tutorials. |
