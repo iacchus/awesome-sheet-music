@@ -29,7 +29,7 @@ A curated list of open source internet resources for musicians and computer-aide
 | [TuxGuitar](https://sourceforge.net/projects/tuxguitar/) | Tablature Editor for Linux. |
 | [Frescobaldi](http://frescobaldi.org/) | LilyPond sheet music text editor. |
 | [Denemo](http://www.denemo.org/) | Free and Open Source music Notation Editor. |
-| [LMMS](https://lmms.io/) | *Let's Make Music* with a Free, cross-platform tool for your computer. Software for and community of music creators.  |
+| [LMMS](https://lmms.io/) | *Let's Make Music* with a Free, cross-platform tool for your computer. DAW software for and community of music creators.  |
 
 sox
 
@@ -54,11 +54,10 @@ timidity
 
 ### Websites
 
-http://www.outsideshore.com/music/a-jazz-improvisation-primer/
-
-http://tobyrush.com/theorypages/index.html
-
-https://music.tutsplus.com/tutorials
+| Title | Description  |
+| [A Jazz Improvisation Primer](http://www.outsideshore.com/music/a-jazz-improvisation-primer/) | by *Marc Sabatella*. About Jazz Improvisation |
+| [Music Theory for Musicians and Normal People](http://tobyrush.com/theorypages/index.html) | by *Toby W. Rush*; Musical theory pages. |
+| [Music and Audio Tutorials at *Tuts+* ](https://music.tutsplus.com/tutorials) | Some very good music theory tutorials. |
 
 ### E-Books
 
