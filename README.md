@@ -32,6 +32,7 @@ A curated list of open source internet resources for musicians and computer-aide
 | [LMMS](https://lmms.io/) | *Let's Make Music* with a Free, cross-platform tool for your computer. DAW software for and community of music creators.  |
 | [sox *SOund eXchange*](http://sox.sourceforge.net/) | SoX, the Swiss Army knife of sound processing programs. |
 | [TiMidity++](http://timidity.sourceforge.net/) | TiMidity++ is a software synthesizer. It can play MIDI files by converting them into PCM waveform data. |
+| [Ardour](https://ardour.org/) | *Digital Audio Workstation*. Ardour: Record, Edit, and Mix. |
 
 ## Tuners
 
