@@ -34,6 +34,10 @@ A curated list of open source internet resources for musicians and computer-aide
 | [TiMidity++](http://timidity.sourceforge.net/) | TiMidity++ is a software synthesizer. It can play MIDI files by converting them into PCM waveform data. |
 | [Ardour](https://ardour.org/) | *Digital Audio Workstation*. Ardour: Record, Edit, and Mix. |
 
+sonic visualizer
+
+vamp-plugins
+
 ## Tuners
 
 | Title | Description |
