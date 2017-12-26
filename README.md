@@ -19,7 +19,7 @@ A curated list of open source internet resources for musicians and computer-aide
 | [birdears](https://github.com/iacchus/birdears) | Functional ear taining for musicians. |
 | [GNU Solfege](https://www.gnu.org/software/solfege/solfege.html) | Software for musical auditive training. |
 
-## Sofware
+## Software
 
 | Title | Description |
 | --- | --- |
