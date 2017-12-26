@@ -100,7 +100,7 @@ Here goes a spellbook for linux musicians.
 | --- | --- | --- |
 | A4 tuning fork diapason |`play -n synth sin A4`| [sox](http://sox.sourceforge.net/) |
 | Recording mp3 <kbd>CTRL</kbd>+<kbd>C</kbd>) to stop | `sox -t alsa default -b 32 -r 192000 recording.mp3 silence 1 0.1 5% 1 1.0 5%` | [sox](http://sox.sourceforge.net/) |
-| Playing MIDI file | `timidity filename.mid` | timidity |
+| Playing MIDI file | `timidity filename.mid` | [timidity++](http://timidity.sourceforge.net/) |
 | Convert PDF to images | `convert -density 300 a.pdf -resize 25% a.png` | [ImageMagick](https://imagemagick.org/) |
 
 ## Instrument-specific
