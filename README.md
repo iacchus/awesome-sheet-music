@@ -107,6 +107,8 @@ Here goes a spellbook for linux musicians.
 
 ### Mandolin / Violin / Fiddle
 
+| Title | Description |
+| --- | --- |
 | [Fretboard-SVG](https://iacchus.github.io/fretboard-svg/) | Find scales and chords on mandolin's violin's fretboard / fingerboard |
 
 ## Libraries for Devs
